@@ -1,17 +1,19 @@
-Hey there!
-This repo is created for sharing some resources on technical stacks,trying to make all the resources for stacks in one repository.😊
-While contributing please check the below:
-📍 Do not repeat the same topic.
-📍 Add quality content.
+Hey there!<br/>
+This repo is created for sharing some resources on technical stacks,<br/>
+trying to make all the resources for technical stacks under one repository.😊<br/><br/>
 
-How to contribute
-💠Fork this repository.
-💠Clone the forked repository into local space
-💠Choose any stack 
-💠Create a folder with the name of the stack and  add 3 files on that :
-             ⭐ Roadmap(How to study that language /pathway)
-             ⭐ References
-             ⭐ Playlist/Courses(Free courses preffered)
+While contributing please check the below:<br/>
+📍 Do not repeat the same topic.<br/>
+📍 Add quality content.<br/><br/>
+
+How to contribute<br/>
+💠Fork this repository.<br/>
+💠Clone the forked repository into local space<br/>
+💠Choose any stack <br/>
+💠Create a folder with the name of the stack and  add 3 files on that :<br/>
+             ⭐ Roadmap(How to study that language /pathway)<br/>
+             ⭐ References<br/>
+             ⭐ Playlist/Courses(Free courses preffered)<br/><br/>
              
              
-😊Let's Team-Up😊         
+😊Let's Team-Up😊   
