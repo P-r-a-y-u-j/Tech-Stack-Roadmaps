@@ -1,6 +1,5 @@
 Hey there!
 This repo is created for sharing some resources on technical stacks,trying to make all the resources for stacks in one repository.😊
-
 While contributing please check the below:
 📍 Do not repeat the same topic.
 📍 Add quality content.
